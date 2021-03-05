@@ -18,13 +18,13 @@ Set minimum stability to dev
 
 Then
 ```
-composer require sc0vu/web3.php dev-master
+harensarma/web3jsphp
 ```
 
 Or you can add this line in composer.json
 
 ```
-"sc0vu/web3.php": "dev-master"
+"harensarma/web3jsphp": "dev-master"
 ```
 
 
