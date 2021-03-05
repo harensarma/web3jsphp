@@ -1,5 +1,6 @@
 {
     "name": "harensarma/web3jsphp",
+    "version": "1",
     "description": "Ethereum web3 interface.",
     "type": "library",
     "license": "MIT",
